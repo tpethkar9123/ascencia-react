@@ -7,7 +7,7 @@ A premium, high-performance React reconstruction of the **Ascencia Business Scho
 ## 🚀 Live Demo
 
 You can view the live application here:
-**[👉 View Live Site]([Live URL Placeholder])**
+**[👉 View Live Site](https://ascencia-react.vercel.app)** *(Pending deployment)*
 
 ---
 
@@ -25,7 +25,7 @@ You can view the live application here:
 
 ### 1. Clone the Repository
 ```bash
-git clone [Your GitHub Repo URL]
+git clone https://github.com/tpethkar9123/ascencia-react.git
 cd ascencia-react
 ```
 
