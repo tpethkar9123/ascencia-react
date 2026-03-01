@@ -8,8 +8,12 @@ A premium, high-performance React reconstruction of the **Ascencia Business Scho
 
 - **Live URL**: [https://ascencia-react.vercel.app](https://ascencia-react.vercel.app)
 - **GitHub Repository**: [https://github.com/tpethkar9123/ascencia-react](https://github.com/tpethkar9123/ascencia-react)
-- **Framework**: React 18 (Functional Components)
-- **Styling**: Vanilla CSS (No UI frameworks used as per requirements)
+- **Framework**: React 18 (Functional Components, No UI Frameworks)
+
+### 🔗 Quick Links (All Pages)
+- **🏠 Home**: [https://ascencia-react.vercel.app/](https://ascencia-react.vercel.app/)
+- **ℹ️ About Us**: [https://ascencia-react.vercel.app/ascencia-malta](https://ascencia-react.vercel.app/ascencia-malta)
+- **📞 Contact**: [https://ascencia-react.vercel.app/contact](https://ascencia-react.vercel.app/contact)
 
 ---
 
