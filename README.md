@@ -1,43 +1,67 @@
-# Ascencia Malta - React Application
+# 🏫 Ascencia Malta - React Application
 
-This is a React-based recreation of the Ascencia Business School website (Ascencia Malta).
+A premium, high-performance React reconstruction of the **Ascencia Business School (Malta)** website. This project leverages **Vite** for lightning-fast development and a component-driven architecture for scalability.
 
-## Features
-- Modern UI built with React and Vite.
-- Responsive design.
-- Component-driven architecture.
+---
 
-## Getting Started
+## 🚀 Live Demo
 
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or yarn
+You can view the live application here:
+**[👉 View Live Site]([Live URL Placeholder])**
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ascencia-react
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+---
 
-### Development
-To start the development server:
+## ✨ Features
+
+- **Pixel-Perfect Recreation**: Meticulously crafted to match the original design.
+- **Component-Driven**: Modular components built for reusability.
+- **Vite Powered**: Extremely fast build times and HMR.
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop.
+- **Modern Stack**: React 18, React Router 6.
+
+---
+
+## 🛠️ Setup & Installation
+
+### 1. Clone the Repository
+```bash
+git clone [Your GitHub Repo URL]
+cd ascencia-react
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Start Development Server
 ```bash
 npm run dev
 ```
 
-### Build
-To build the project for production:
+### 4. Build for Production
 ```bash
 npm run build
 ```
 
-## Deployment
-The project is deployed on Vercel. You can view the live version at: [Live URL]
+---
+
+## 📦 Deployment
+
+This project is ready for deployment on **Vercel** or **Netlify**.
+
+### Deploy to Vercel (Recommended)
+1. Install Vercel CLI: `npm i -g vercel`
+2. Run `vercel` in the project root.
+
+---
+
+## 📁 Project Structure
+
+- `src/components/`: Reusable UI components (Header, Footer, Home, etc.)
+- `public/`: Static assets extracted from the original site.
+- `vite.config.js`: Optimized build configuration.
+
+---
+
+Developed with ❤️ for Ascencia Malta.
