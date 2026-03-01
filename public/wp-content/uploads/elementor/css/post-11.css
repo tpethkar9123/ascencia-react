@@ -1,0 +1,27 @@
+.elementor-kit-11{--e-global-color-primary:#BC0F2C;--e-global-color-secondary:#222218;--e-global-color-text:#191913;--e-global-color-accent:#000000;--e-global-color-180d306:#FFFFFF;--e-global-color-9c4beba:#F8E7E9;--e-global-color-f633afb:#D5213F;--e-global-color-1d7d54b:#E8E8E7;--e-global-color-f538883:#000000;--e-global-color-789ffaa:#F8F8F8;--e-global-color-76bdef8:#2C2C2C;--e-global-typography-primary-font-family:"Futura Bold";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Futura Condensed";--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-letter-spacing:1px;--e-global-typography-text-font-family:"Quattrocento Sans";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Quattrocento Sans";--e-global-typography-accent-font-weight:500;--e-global-typography-feb9cd4-font-family:"Futura Book";background-color:var( --e-global-color-180d306 );font-size:16px;line-height:32px;}.elementor-kit-11 e-page-transition{background-color:#FFBC7D;}.elementor-kit-11 h1{font-size:55px;text-transform:uppercase;line-height:70px;}.elementor-kit-11 h2{font-size:45px;line-height:65px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Futura Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url("../../2022/11/FuturaPT-Bold.woff2") format('woff2'),
+		url('https://www.ascencia-business-school.mt/wp-content/uploads/2022/11/FuturaPT-Bold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Futura Condensed';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url("../../2022/11/FuturaPTCond-Book.woff2") format('woff2'),
+		url('https://www.ascencia-business-school.mt/wp-content/uploads/2022/11/FuturaPTCond-Book.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Futura Book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url("../../2022/11/FuturaPT-Book.woff2") format('woff2'),
+		url('https://www.ascencia-business-school.mt/wp-content/uploads/2022/11/FuturaPT-Book.woff') format('woff');
+}
+/* End Custom Fonts CSS */
