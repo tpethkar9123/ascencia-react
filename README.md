@@ -7,7 +7,7 @@ A premium, high-performance React reconstruction of the **Ascencia Business Scho
 ## 🚀 Live Demo
 
 You can view the live application here:
-**[👉 View Live Site](https://ascencia-react.vercel.app)** *(Pending deployment)*
+**[👉 View Live Site](https://ascencia-react.vercel.app)**
 
 ---
 
